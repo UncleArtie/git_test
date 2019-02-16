@@ -1,0 +1,1 @@
+This is Artie's first Git project. (not really but I'm humoring me)
